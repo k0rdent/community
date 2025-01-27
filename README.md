@@ -23,5 +23,9 @@ Fill out the [k0rdent Meetings invite form] to get your Calendar invite!
 - [Sync Up Meeting Link](https://meet.google.com/hwd-xowh-jav)
 
 
+## Community Slack
+
+The k0rdent community slack is located in the CNCF Slack workspace where all the conversations around community contributions, feedback, queries, blockers and community participation is discussed.
+To join the community slack, join the [CNCF](https://slack.cncf.io) Slack and then join the [#kordent](https://cloud-native.slack.com/archives/C08A63Q4NCD) slack channel.
 
 
