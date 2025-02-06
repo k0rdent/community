@@ -17,11 +17,7 @@ k0rdent community meetings happenon every 3rd Thursday of the month at 8AM Pacif
 The community meetings will involve discussing community updates, sharing updates on new features/releases, technical and non-technical contributions to k0rdent, and user stories of k0rdent.
 Maintainers, present contributors and community members are invited to participate in the k0rdent community meetings to build the project together.
 
-Fill out the [k0rdent Meetings invite form] to get your Calendar invite!  
-
-
-- [Sync Up Meeting Link](https://meet.google.com/hwd-xowh-jav)
-
+Fill out the [k0rdent Meetings invite form](https://forms.gle/EDwvAH11fsKmrar78) to get your Calendar invite!  
 
 ## Community Slack
 
